@@ -1,8 +1,0 @@
-# ไฟล์ระบบของ Windows / macOS
-Thumbs.db
-desktop.ini
-.DS_Store
-
-# ไฟล์ตั้งค่าของโปรแกรมแก้โค้ด
-.vscode/
-.idea/
